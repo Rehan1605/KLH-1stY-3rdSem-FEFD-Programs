@@ -1,12 +1,12 @@
-import Child1 from "./Child1.jsx";
+import Child1 from "./Child1";
 const Parent1 = () => {
   return (
-    
-        <>
-        <Child1 key1={"Hello"} key2 = {100}> </Child1>
-        
-        </>
+    <div>
+      <h1>Parent Component</h1>
 
-    )
-}
+      <Child1 key1="Hello " key2={2026}> </Child1>
+
+    </div>
+  );
+};
 export default Parent1;
