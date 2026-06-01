@@ -7,7 +7,7 @@ import './index.css'
 import WithComposition from './components/With_Composition.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/*<App />} */}
-    <WithComposition />
+    {/*<App />}*/}
+    {<WithComposition />}
   </StrictMode>,
 )

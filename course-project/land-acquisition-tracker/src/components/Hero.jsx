@@ -1,5 +1,5 @@
 // Hero component shows the main message and call-to-action buttons
-export default function Hero() {
+export default function Hero({ onCitizenLogin, onAdminLogin }) {
   return (
     <section className="hero">
       <h1>Transparent Land Acquisition Tracking for Citizens</h1>
@@ -9,11 +9,11 @@ export default function Hero() {
         government portal layout.
       </p>
       <div className="hero-actions">
-        <button type="button" className="hero-button primary">
-          Track Case
+        <button type="button" className="hero-button primary" onClick={onCitizenLogin}>
+          Citizen Login
         </button>
-        <button type="button" className="hero-button secondary">
-          File Objection
+        <button type="button" className="hero-button secondary" onClick={onAdminLogin}>
+          Admin Login
         </button>
       </div>
     </section>

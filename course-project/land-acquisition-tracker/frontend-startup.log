@@ -1,0 +1,23 @@
+
+> land-acquisition-tracker@0.0.1 dev
+> vite --host 127.0.0.1
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m603[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m9:43:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/CitizenLogin.jsx[22m
+[2m9:43:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/CitizenLogin.jsx[22m
+[2m9:44:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:40:56 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:41:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/CitizenDashboard.jsx[22m
+[2m2:41:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AdminDashboard.jsx[22m
+[2m2:41:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ObjectionForm.jsx[22m
+[2m2:41:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Footer.jsx[22m
+[2m2:41:39 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Footer.jsx[22m
+[2m2:41:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AdminPanel.jsx[22m
+[2m2:41:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.css[22m
+[2m2:42:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:42:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:43:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m2:43:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.css[22m
